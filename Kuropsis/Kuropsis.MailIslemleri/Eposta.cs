@@ -8,10 +8,7 @@ namespace Kuropsis.MailIslemleri
 {
     public class Eposta
     {
-        if (1==1)
-	{
-
-	}
+        
 
     }
 }
